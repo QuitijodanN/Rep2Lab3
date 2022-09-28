@@ -1,1 +1,1 @@
-Hola, Trabajador modifica dentro del parentesis -> ()
+Hola, Trabajador modifica dentro del parentesis -> (hola)
